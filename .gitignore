@@ -1,0 +1,12 @@
+# 本机数据，不要提交，也不该跟着分发包走
+script/.session/
+script/output/
+script/config.json
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 打包产物
+dist/
