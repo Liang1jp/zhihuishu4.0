@@ -4,6 +4,7 @@
 名字不是我起的喵
 
 1.0 来自苏大学姐   https://github.com/LemSonami/FxxkZhiHuiShuMeow
+
 2.0 来自mhp_2233  https://github.com/mhpmc/ZhiHuiShuMeow2.0
 ## 前置依赖
 
