@@ -1,5 +1,10 @@
 # [fxxkZhiHuiShuMeow] Sonamiの智慧树智慧课程刷课脚本(这里是由凉更新的4.0版本喵)
 （4.0版本主要加了对于共享课的自动刷课）
+
+名字不是我起的喵
+
+1.0 来自苏大学姐   https://github.com/LemSonami/FxxkZhiHuiShuMeow
+2.0 来自mhp_2233  https://github.com/mhpmc/ZhiHuiShuMeow2.0
 ## 前置依赖
 
 需要 Windows 和 Python 3.11+（安装 Python 时勾选 “Add Python to PATH”）。默认使用系统自带的 Edge，不需要额外下载浏览器。
